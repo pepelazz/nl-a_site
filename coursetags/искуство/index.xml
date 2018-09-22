@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Искуство on NL!A</title>
+    <link>http://edubot.pro/coursetags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE/</link>
+    <description>Recent content in Искуство on NL!A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Mar 2018 21:54:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://edubot.pro/coursetags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>История искусств</title>
+      <link>http://edubot.pro/course/painting_of_artists/</link>
+      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
+      
+      <guid>http://edubot.pro/course/painting_of_artists/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lorem diam, sagittis vel cursus non, eleifend tincidunt lorem. Etiam tincidunt sagittis tortor, vel bibendum ipsum fermentum non. Duis vitae ante massa. Integer ultrices, tortor facilisis dictum lacinia, ante neque pulvinar urna, eget scelerisque nisi ipsum nec lectus. Praesent faucibus et sem id tincidunt. Sed ut lobortis felis. Integer semper cursus tortor sit amet tincidunt. Sed vel leo urna. Proin iaculis condimentum neque et vulputate.</description>
+    </item>
+    
+  </channel>
+</rss>
