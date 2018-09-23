@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>География on NL!A</title>
-    <link>http://edubot.pro/coursetags/%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</link>
+    <link>http://nl-a.ru/coursetags/%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</link>
     <description>Recent content in География on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Mar 2018 21:54:53 -0500</lastBuildDate>
     
-	<atom:link href="http://edubot.pro/coursetags/%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nl-a.ru/coursetags/%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Флаги стран</title>
-      <link>http://edubot.pro/course/geo_flags/</link>
+      <link>http://nl-a.ru/course/geo_flags/</link>
       <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
       
-      <guid>http://edubot.pro/course/geo_flags/</guid>
+      <guid>http://nl-a.ru/course/geo_flags/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lorem diam, sagittis vel cursus non, eleifend tincidunt lorem. Etiam tincidunt sagittis tortor, vel bibendum ipsum fermentum non. Duis vitae ante massa. Integer ultrices, tortor facilisis dictum lacinia, ante neque pulvinar urna, eget scelerisque nisi ipsum nec lectus. Praesent faucibus et sem id tincidunt. Sed ut lobortis felis. Integer semper cursus tortor sit amet tincidunt. Sed vel leo urna. Proin iaculis condimentum neque et vulputate.</description>
     </item>
     

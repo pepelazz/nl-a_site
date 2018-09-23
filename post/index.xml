@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on NL!A</title>
-    <link>http://edubot.pro/post/</link>
+    <link>http://nl-a.ru/post/</link>
     <description>Recent content in Posts on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Sep 2014 21:57:09 -0500</lastBuildDate>
     
-	<atom:link href="http://edubot.pro/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nl-a.ru/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>second</title>
-      <link>http://edubot.pro/post/second/</link>
+      <link>http://nl-a.ru/post/second/</link>
       <pubDate>Mon, 29 Sep 2014 21:57:09 -0500</pubDate>
       
-      <guid>http://edubot.pro/post/second/</guid>
+      <guid>http://nl-a.ru/post/second/</guid>
       <description>my second post 12444</description>
     </item>
     
     <item>
       <title>about game</title>
-      <link>http://edubot.pro/post/about_game/</link>
+      <link>http://nl-a.ru/post/about_game/</link>
       <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
       
-      <guid>http://edubot.pro/post/about_game/</guid>
+      <guid>http://nl-a.ru/post/about_game/</guid>
       <description>about game Обезьяныч</description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://edubot.pro/post/first/</link>
+      <link>http://nl-a.ru/post/first/</link>
       <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
       
-      <guid>http://edubot.pro/post/first/</guid>
-      <description>my first post 11134-565-67
+      <guid>http://nl-a.ru/post/first/</guid>
+      <description>my first post 11134-565-67-89
      </description>
     </item>
     
