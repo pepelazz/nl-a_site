@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/eduai/doc/create_course/</loc>
+    <lastmod>2014-09-29T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/post/about_game/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
   </url>
@@ -68,6 +73,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/eduai/doc/edit_qstn/</loc>
+    <lastmod>2014-09-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/course/</loc>
     <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
@@ -80,7 +90,6 @@
   
   <url>
     <loc>http://nl-a.ru/eduai/</loc>
-    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
