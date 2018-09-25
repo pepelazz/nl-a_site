@@ -108,7 +108,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lorem diam, s
       <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
       
       <guid>http://nl-a.ru/post/about_game/</guid>
-      <description>about game Обезьяныч</description>
+      <description>about game  </description>
+    </item>
+    
+    <item>
+      <title>doc_list_page</title>
+      <link>http://nl-a.ru/eduai/doc/</link>
+      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/eduai/doc/</guid>
+      <description></description>
     </item>
     
     <item>

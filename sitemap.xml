@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/eduai/doc/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/post/first/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
   </url>
@@ -70,6 +75,12 @@
   
   <url>
     <loc>http://nl-a.ru/coursetags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/eduai/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   

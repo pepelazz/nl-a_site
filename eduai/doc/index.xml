@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first on NL!A</title>
+    <link>http://localhost:1313/eduai/doc/</link>
+    <description>Recent content in first on NL!A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/eduai/doc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Создание курса</title>
+      <link>http://localhost:1313/eduai/doc/create_course/</link>
+      <pubDate>Mon, 29 Sep 2014 21:57:09 -0500</pubDate>
+      
+      <guid>http://localhost:1313/eduai/doc/create_course/</guid>
+      <description>создание курса
+ </description>
+    </item>
+    
+  </channel>
+</rss>
