@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nl-a.ru/blog/business_terms/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/course/biz_words/</loc>
     <lastmod>2018-03-29T21:54:53-05:00</lastmod>
   </url>
@@ -88,6 +93,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/blog/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/eduai/doc/reports/</loc>
     <lastmod>2014-09-20T21:57:09-05:00</lastmod>
   </url>
@@ -95,6 +105,11 @@
   <url>
     <loc>http://nl-a.ru/eduai/doc/edit_qstn/</loc>
     <lastmod>2014-09-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/blogtags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -127,6 +142,12 @@
   
   <url>
     <loc>http://nl-a.ru/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   

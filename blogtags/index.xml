@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogtags on NL!A</title>
+    <link>http://nl-a.ru/blogtags/</link>
+    <description>Recent content in Blogtags on NL!A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://nl-a.ru/blogtags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Бизнес</title>
+      <link>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
+      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
