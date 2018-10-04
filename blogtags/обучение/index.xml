@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Блог on NL!A</title>
-    <link>http://nl-a.ru/blog/</link>
-    <description>Recent content in Блог on NL!A</description>
+    <title>Обучение on NL!A</title>
+    <link>http://nl-a.ru/blogtags/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Обучение on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 29 Mar 2018 21:54:53 -0500</lastBuildDate>
     
-	<atom:link href="http://nl-a.ru/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nl-a.ru/blogtags/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Бизнес понятия</title>
-      <link>http://nl-a.ru/blog/business_terms/</link>
-      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
-      
-      <guid>http://nl-a.ru/blog/business_terms/</guid>
-      <description>Данный курс нацелен на изучение ключевых 150 бизнесовых понятий
-Курс создан для студентов Экономического факультета НГУ, а также используется в практике обучения на Президентской программе в Центре дополнительного образования НГУ (ЦДО НГУ)
-Изучение любой темы необходимо начинать с изучения понятийного аппарата &amp;ldquo;Я знаю, что это такое, но сказать не могу&amp;rdquo; - курс нацелен на решение именно этой проблемы</description>
-    </item>
     
     <item>
       <title>Обучение человека. Интересные концепции</title>
