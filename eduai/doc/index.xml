@@ -12,19 +12,6 @@
     
     
     <item>
-      <title>Инструкция по обучению в системе EduAi</title>
-      <link>http://nl-a.ru/eduai/doc/how-to-learn/</link>
-      <pubDate>Tue, 21 Oct 2014 21:57:09 -0500</pubDate>
-      
-      <guid>http://nl-a.ru/eduai/doc/how-to-learn/</guid>
-      <description>Инструкция по обучению сотрудников АО &amp;ldquo;Виртекс&amp;rdquo; на цифровой платформе EduAi 1. Введение Цифровые курсы для обучения сотрудников АО &amp;ldquo;Виртекс&amp;rdquo; расположены на образовательной платформе EduAi и доступны по адресу https://virtex-food.eduai.pro/
- 
-Обучение осуществляется через смартфон, планшет или компьютер
-Доступ к цифровой образовательной плафторме осуществляется через браузер. Рекомендуемый к использованию браузер - Google Chrome
-Авторизация на образовательной платформе EduAi сотрудников АО &amp;ldquo;Виртекс&amp;rdquo; осуществляется через профиль в социальной сети ВКонтакте</description>
-    </item>
-    
-    <item>
       <title>EduAi: Предназначение</title>
       <link>http://nl-a.ru/eduai/doc/concept/</link>
       <pubDate>Mon, 20 Oct 2014 21:57:09 -0500</pubDate>
@@ -34,6 +21,19 @@
 Платформа EduAi обладает всем функционалом, необходимым для обеспечения процесса обучения и аттестации сотрудников в современном цифровом формате 
 
 Образовательная платформа EduAi создана с учетом результатов исследований в области когнитивных наук: главным образом как человеческое сознание воспринимает, обрабатывает и хранит необходимую информацию Ключевая методологическая особеннность платформы EduAi - закрепление необходимых знаний происходит в процессе индивидуального диалога с каждым сотрудником</description>
+    </item>
+    
+    <item>
+      <title>Инструкция по обучению в системе EduAi</title>
+      <link>http://nl-a.ru/eduai/doc/how-to-learn/</link>
+      <pubDate>Mon, 20 Oct 2014 21:57:09 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/eduai/doc/how-to-learn/</guid>
+      <description>Инструкция по обучению сотрудников АО &amp;ldquo;Виртекс&amp;rdquo; на цифровой платформе EduAi 1. Введение Цифровые курсы для обучения сотрудников АО &amp;ldquo;Виртекс&amp;rdquo; расположены на образовательной платформе EduAi и доступны по адресу https://virtex-food.eduai.pro/
+ 
+Обучение осуществляется через смартфон, планшет или компьютер
+Доступ к цифровой образовательной плафторме осуществляется через браузер. Рекомендуемый к использованию браузер - Google Chrome
+Авторизация на образовательной платформе EduAi сотрудников АО &amp;ldquo;Виртекс&amp;rdquo; осуществляется через профиль в социальной сети ВКонтакте</description>
     </item>
     
     <item>
@@ -53,8 +53,13 @@
       <pubDate>Mon, 29 Sep 2014 21:57:09 -0500</pubDate>
       
       <guid>http://nl-a.ru/eduai/doc/create_course/</guid>
-      <description>Создание курса At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</description>
+      <description>Создание нового курса на платформе EduAi занимает считанные минуты Функция создания новых курсов доступна администраторам цифровой образовательной платформы EduAi
+Создание курса осуществляется в разделе &amp;ldquo;Управление курсами&amp;rdquo;. Для создания нового курса необходимо нажать символ плюс (круглая кнопка справа внизу экрана)
+ 
+ 
+Каждый цифровой кур на платформе EduAi содержит следующие параметры:
+ID курса ID курса - уникальный идентификационный номер курса на латинице
+ID служит для навигации по курсам в базе данных и панели администратора</description>
     </item>
     
     <item>
