@@ -79,5 +79,19 @@ ID служит для навигации по курсам в базе данн
       <description>Редактирование вопросов At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
     </item>
     
+    <item>
+      <title>Создание вопросов</title>
+      <link>http://nl-a.ru/eduai/doc/create_question/</link>
+      <pubDate>Sat, 20 Sep 2014 21:57:09 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/eduai/doc/create_question/</guid>
+      <description>Создание вопросов на образовательной платформе EduAi Вопросы для закрепления изучаемого материала являются ключевой сущностью, обеспечивающей вовлечение сотрудников в процесс обучения, равно как и приобретение необходимых заказчику знаний
+Существует два способа создания вопросов:
+ Ручной Автоматический  Ручной способ подразумевает создание вручную каждого вопроса через панель администратора на платформе EduAi
+Для создания вопроса необходимо заполнить ключевые поля на странице редактирования вопроса
+ 
+Ручной способ создания вопросов характериpуется высокой трудоемкостью и незначительным количеством создаваемых вопросов (от 20 до 200 вопросов по одному курсу) Автоматический способ создания вопросов заключается в генерации вопросов по материалам заказчика при помощи алгорнитмов Neuro Lab!</description>
+    </item>
+    
   </channel>
 </rss>
