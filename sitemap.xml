@@ -63,6 +63,16 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/client/shashlikoff/how-to-learn/</loc>
+    <lastmod>2014-10-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/client/virtex/how-to-learn/</loc>
+    <lastmod>2014-10-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/eduai/doc/how-to-learn/</loc>
     <lastmod>2014-10-20T21:57:09-05:00</lastmod>
   </url>
@@ -103,6 +113,16 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/client/virtex/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/client/shashlikoff/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/eduai/doc/create_question/</loc>
     <lastmod>2014-09-20T21:57:09-05:00</lastmod>
   </url>
@@ -114,6 +134,11 @@
   
   <url>
     <loc>http://nl-a.ru/blogtags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/client/</loc>
     <priority>0</priority>
   </url>
   
