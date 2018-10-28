@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/company/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/post/about_game/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
   </url>
@@ -124,11 +129,6 @@
   
   <url>
     <loc>http://nl-a.ru/client/shashlikoff/</loc>
-    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nl-a.ru/company/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
   </url>
   
@@ -186,14 +186,14 @@
   </url>
   
   <url>
-    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
