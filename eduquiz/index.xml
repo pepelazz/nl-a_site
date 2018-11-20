@@ -22,5 +22,14 @@
 😎 Передовые технологии Neuro Lab! Algorithms позволяют создавать тесты на сервисе NL!A EduQuiz за несколько секунд</description>
     </item>
     
+    <item>
+      <title>Создание и редактирование тестовых вопросов</title>
+      <link>http://nl-a.ru/eduquiz/manage_questions/</link>
+      <pubDate>Sat, 20 Sep 2014 21:57:09 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/eduquiz/manage_questions/</guid>
+      <description>EduQuiz</description>
+    </item>
+    
   </channel>
 </rss>

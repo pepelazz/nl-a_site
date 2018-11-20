@@ -178,6 +178,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/eduquiz/manage_questions/</loc>
+    <lastmod>2014-09-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/eduai/doc/reports/</loc>
     <lastmod>2013-09-20T21:57:09-05:00</lastmod>
   </url>
@@ -226,14 +231,14 @@
   </url>
   
   <url>
-    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
