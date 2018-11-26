@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nl-a.ru/blog/digital_education_interview_p1/</loc>
+    <lastmod>2018-11-23T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/blog/eduai_case_foodfactory/</loc>
     <lastmod>2018-10-21T21:54:53-05:00</lastmod>
   </url>
@@ -220,7 +225,7 @@
   
   <url>
     <loc>http://nl-a.ru/</loc>
-    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
+    <lastmod>2018-11-23T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,14 +241,14 @@
   </url>
   
   <url>
-    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -273,7 +278,7 @@
   
   <url>
     <loc>http://nl-a.ru/blogtags/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
-    <lastmod>2018-10-15T21:54:53-05:00</lastmod>
+    <lastmod>2018-11-23T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -297,7 +302,7 @@
   
   <url>
     <loc>http://nl-a.ru/blogtags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</loc>
-    <lastmod>2018-10-15T21:54:53-05:00</lastmod>
+    <lastmod>2018-11-23T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
