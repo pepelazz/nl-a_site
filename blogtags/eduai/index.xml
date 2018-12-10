@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduai on NL!A</title>
+    <link>http://nl-a.ru/blogtags/eduai/</link>
+    <description>Recent content in Eduai on NL!A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Dec 2018 21:54:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://nl-a.ru/blogtags/eduai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Трансформация бизнес-модели федеральной сети ресторанов за счет использования технологий цифрового обучения</title>
+      <link>http://nl-a.ru/blog/eduai_case_resto/</link>
+      <pubDate>Sun, 09 Dec 2018 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/eduai_case_resto/</guid>
+      <description>Начав с замены «бумажной аттестации» сотрудников цифровым решением EduAi в 2016 году… … в 2018 году технология цифрового обучения сотрудников является компонентой ценностного предложения франшизы федеральной сети ресторанов 
+
+
+2016: Использование EduAi только для аттестации сотрудников Ценность от использования EduAi:
+ экономия на командировочных расходах сотрудников центра аттестации
+ исключение человеческого фактора при проверке результатов аттестации 
+2017: Системное внедрение цифровых курсов для обучения сотрудников  Ценность от использования EduAi:</description>
+    </item>
+    
+  </channel>
+</rss>
