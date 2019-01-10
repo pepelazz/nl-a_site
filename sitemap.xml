@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nl-a.ru/blog/bite_sized_learning/</loc>
+    <lastmod>2019-01-09T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/blog/eduai_case_resto/</loc>
     <lastmod>2018-12-09T21:54:53-05:00</lastmod>
   </url>
@@ -257,7 +262,7 @@
   
   <url>
     <loc>http://nl-a.ru/</loc>
-    <lastmod>2018-12-09T21:54:53-05:00</lastmod>
+    <lastmod>2019-01-09T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,7 +321,7 @@
   
   <url>
     <loc>http://nl-a.ru/blogtags/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
-    <lastmod>2018-12-09T21:54:53-05:00</lastmod>
+    <lastmod>2019-01-09T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -346,7 +351,7 @@
   
   <url>
     <loc>http://nl-a.ru/blogtags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</loc>
-    <lastmod>2018-11-27T21:54:53-05:00</lastmod>
+    <lastmod>2019-01-09T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,23 @@
     <description>Recent content on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Dec 2018 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2019 21:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://nl-a.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Микрообучение - курочка по зернышку клюет</title>
+      <link>http://nl-a.ru/blog/bite_sized_learning/</link>
+      <pubDate>Wed, 09 Jan 2019 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/bite_sized_learning/</guid>
+      <description>Сложившийся веками стереотип: говорим “обучение” - подразумеваем классно-урочную систему (все мы через это прошли)
+Однако жизнь эволюционирует и все больший тренд набирает так называемое “микрообучение”
+Оказывается, для решения образовательных задач совсем не обязательно запирать ваших учеников в аудиториях на 40 и более минут. Современные технологии позволяют решать образовательные задачи микро-активностями - по 5-7 минут обучения в день (так и происходит у наших клиентов)
+ 
+Микрообучение (microlearning) — совокупность образовательных технологий, обладающих, по крайней мере, тремя характеристиками:</description>
+    </item>
     
     <item>
       <title>Кейс: цифровое обучение сотрудников федеральной сети ресторанов</title>
