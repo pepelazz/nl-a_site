@@ -142,67 +142,90 @@
 
 
 
-
-
-
-
 <section class="page-header page-header-xs">
-
-    <div class="container text-center">
-        <p class="mt-30 mb-0">курс</p>
-        <h3>
-            Тотальный диктант
-        </h3>
-        
-
+    <div class="container" style="margin-top: 10px; margin-bottom: -10px">
+        <ol class="breadcrumb breadcrumb-inverse">
+            <li><a href="/">NL!A</a></li>
+            <li class="active">рейтинг участников курса</li>
+        </ol>
     </div>
-
 </section>
 
-<section class="b-0" style="padding-top: 50px">
+<section>
     <div class="container">
 
-        <div class="row justify-content-md-center">
+        <div class="row">
 
-
-            <div class="col-lg-6">
-
-                
-                    
-                    
-                
-
-                <p><p>Курс тотального диктанта</p>
-</p>
-
-
-                <div class="heading-title heading-border heading-color mt-0">
-                    <h2 class="fs-18 fw-400">BEYOND THE FUTURE</h2>
-                    <p class="fs-13">WE FLY, WE NEVER FALL</p>
+            
+            <div class="col-md-9 col-sm-9">
+                <h1 class="blog-post-title">Основы бизнеса. Рейтинг участников курса</h1>
+                <div id='app'>
+                    <table id="nsubiz-score-table">
+                        <tr v-for="(item, index) in data" :key='item.title' :class='colorClass(index)'>
+                            <td>[[index+1]]</td>
+                            <td>
+                                <div :style="avatarStyle(item)" class="avatar"></div>
+                            </td>
+                            <td>
+                                <div class="name">[[item.title]]</div>
+                                <div class="points">[[(item.points)]] очков</div>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
-                <a href="#" class="btn btn-xlg btn-default btn-bordered btn-block mt-50">ПЕРЕЙТИ К КУРСУ</a>
 
             </div>
 
-            <div class="col-lg-4">
-
-                
-            </div>
         </div>
+
     </div>
 </section>
 
+<script>
+    var app = new Vue({
+        delimiters: ['[[', ']]'],
+        el: '#app',
+        data() {
+            return {
+                data: [],
 
-    
-        
-            
-            
-            
-        
-
-    
-
-
+            }
+        },
+        methods: {
+            avatarStyle(item) {
+                return `background: url('${item.avatar}') center no-repeat; background-size: cover`
+            },
+            colorClass(index) {
+                if (index < 50) {
+                    return 'group-first'
+                }
+                if (index >= 50 && index <= 89) {
+                    return 'group-second'
+                }
+                if (index > 89) {
+                    return 'group-third'
+                }
+            }
+        },
+        mounted() {
+            let that = this
+            axios
+                .get('https://spreadsheets.google.com/feeds/list/1LjQN1-P3qRBzkn3v3QRtnEEhjWPANR5WTmkpuMkY0dQ/od6/public/values?alt=json')
+                .then(res => {
+                    this.data = _.map(res.data.feed.entry, (v => {
+                        const points = +v.gsx$points.$t + +v.gsx$task.$t
+                        return {
+                            title: v.gsx$stud.$t,
+                            avatar: v.gsx$avatar.$t,
+                            points: points ? points : 0
+                        }
+                    }))
+                    this.data = _.sortBy(this.data, v => v.points * -1)
+                    console.log('data:', this.data)
+                })
+        },
+    })
+</script>
 
 
 
