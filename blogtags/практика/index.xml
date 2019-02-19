@@ -6,10 +6,23 @@
     <description>Recent content in Практика on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Dec 2018 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 21:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://nl-a.ru/blogtags/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Курс НГУ “Основы бизнеса”. Практика применения цифровых технологий в образовании</title>
+      <link>http://nl-a.ru/blog/nsu_digital_education/</link>
+      <pubDate>Mon, 18 Feb 2019 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/nsu_digital_education/</guid>
+      <description>Автор: Дмитрий Марков, CEO Neuro Lab! Algorithms
+У меня есть традиция: раз в год мы ходим в баню я провожу курс “Основы бизнеса” для студентов экономического факультета НГУ 
+
+Формат курса - одна пара/встреча в неделю со студентами в течение одного семестра. В итоге получается 12-15 пар/встреч в зависимости от графика выходных + гора заданий, выполняемых и проверяемых в цифровом формате
+Количество студентов 150+. Семинаров нет. Очно возиться с каждым - возможностей нет В этом году курс провожу в 8 раз (год) и каждый год курс эволюционирует как по содержанию (чему учить), так и по применяемым цифровым образовательным технологиям (как учить)</description>
+    </item>
     
     <item>
       <title>Кейс: цифровое обучение сотрудников федеральной сети ресторанов</title>
