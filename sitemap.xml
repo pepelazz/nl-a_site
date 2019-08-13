@@ -173,6 +173,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/digital-assistant/concept/</loc>
+    <lastmod>2014-10-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/client/bar/</loc>
     <lastmod>2014-09-30T21:54:53-05:00</lastmod>
   </url>
@@ -204,6 +209,11 @@
   
   <url>
     <loc>http://nl-a.ru/comments/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/digital-assistant/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
   </url>
   
@@ -243,6 +253,11 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/digital-assistant/implementation/</loc>
+    <lastmod>2014-09-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/eduai/doc/create_question/</loc>
     <lastmod>2014-09-20T21:57:09-05:00</lastmod>
   </url>
@@ -253,8 +268,23 @@
   </url>
   
   <url>
+    <loc>http://nl-a.ru/digital-assistant/cases/</loc>
+    <lastmod>2014-08-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nl-a.ru/eduquiz/manage_tests/</loc>
     <lastmod>2014-08-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/digital-assistant/getting_started/</loc>
+    <lastmod>2014-08-20T21:57:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nl-a.ru/digital-assistant/faq/</loc>
+    <lastmod>2014-01-20T21:57:09-05:00</lastmod>
   </url>
   
   <url>
@@ -318,14 +348,14 @@
   </url>
   
   <url>
-    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nl-a.ru/blogtags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2018-10-21T21:54:53-05:00</lastmod>
+    <loc>http://nl-a.ru/coursetags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
