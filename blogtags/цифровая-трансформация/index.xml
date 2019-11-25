@@ -6,10 +6,22 @@
     <description>Recent content in Цифровая Трансформация on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2019 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2019 21:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://nl-a.ru/blogtags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Леруа Мерлен. Использование цифрового помощника NL!A для сбора цифровых следов сотрудников</title>
+      <link>http://nl-a.ru/blog/leroy_merlin_digital_assistant/</link>
+      <pubDate>Sun, 24 Nov 2019 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/leroy_merlin_digital_assistant/</guid>
+      <description>В Neuro Lab! Algorithms обратились представители Леруа Мерлен Новосибирск с запросом по решению задачи о сборе данных о деятельности сотрудников
+Ситуация Заказы, поступающие через интернет-магазин Леруа Мерлен, собираются сотрудниками магазина в торговом зале. В процессе задействовано до 20 сотрудников
+Проблема Руководитель сектора (данного направления) не обладает информацией о результативности деятельности сотрудников в течение дня.
+Иными словами - руководитель не знает сколько заказов собрал отдельно взятый сотрудник (нет данных на микроуровне)</description>
+    </item>
     
     <item>
       <title>Закомьтесь - Цифровой помощник NL!A</title>

@@ -8,8 +8,8 @@
     
     <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
     
-    <meta content="бизнес-модели, цифровая трансформация бизнеса, технопром" name="keywords">
-    <meta content="Технический директор Neuro Lab! Algorithms Алексей Марков выступил на Технопроме-2019 модератором круглого стола на тему Управление сложностью" property="og:description">
+    <meta content="цифровой помощник, цифровизация процессов, цифровой помощник, автоматизация процессов, цифровизация, цифровая экономика, цифровой след" name="keywords">
+    <meta content="Цифровой помощник NL!A помогает отслеживать активность сотрудников магазина Леруа Мерлен по сбору интернет-заказов, собирая цифровые следы сотрудников" property="og:description">
 
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600%7CRaleway:300,400,500,600,700%7CLato:300,400,400italic,600,700" rel="stylesheet" type="text/css" />
@@ -151,7 +151,7 @@
         <ol class="breadcrumb breadcrumb-inverse">
             <li><a href="/">NL!A</a></li>
             <li><a href="/blog">Блог</a></li>
-            <li class="active">Neuro Lab! Algorithms на Технопроме-2019: управление сложностью. Трансформация бизнес-моделей</li>
+            <li class="active">Леруа Мерлен. Использование цифрового помощника NL!A для сбора цифровых следов сотрудников</li>
         </ol>
     </div>
 </section>
@@ -164,12 +164,12 @@
             
             <div class="col-md-9 col-sm-9">
 
-                <h1 class="blog-post-title">Neuro Lab! Algorithms на Технопроме-2019: управление сложностью. Трансформация бизнес-моделей</h1>
+                <h1 class="blog-post-title">Леруа Мерлен. Использование цифрового помощника NL!A для сбора цифровых следов сотрудников</h1>
                 <ul class="blog-post-info list-inline">
                     <li>
                         <a href="#">
                             <i class="fa fa-clock-o"></i>
-                            <span class="font-lato">2019-10-02</span>
+                            <span class="font-lato">2019-11-24</span>
                         </a>
                     </li>
                     <li>
@@ -187,143 +187,270 @@
                 </ul>
                 
 
-<p>На Технопроме-2018 нас попросили выступить с <a href="https://nl-a.ru/blog/tehnoprom_2018/">мастер-классом по цифровому обучению</a>, в этом же году тема расширилась и усложнилась</p>
+<p>В Neuro Lab! Algorithms обратились представители Леруа Мерлен Новосибирск с запросом по решению задачи о сборе данных о деятельности сотрудников</p>
 
-<h3 id="управление-сложностью-платформы-и-сети-трансформация-бизнес-моделей">Управление сложностью. Платформы и сети. Трансформация бизнес-моделей</h3>
+<h3 id="ситуация">Ситуация</h3>
 
-<hr>
+<p>Заказы, поступающие через интернет-магазин Леруа Мерлен, собираются сотрудниками магазина в торговом зале. В процессе задействовано до 20 сотрудников</p>
+
+<h3 id="проблема">Проблема</h3>
+
+<p>Руководитель сектора (данного направления) не обладает информацией о результативности деятельности сотрудников в течение дня.</p>
+
+<p>Иными словами - руководитель не знает сколько заказов собрал отдельно взятый сотрудник (нет данных на микроуровне)</p>
+
+<p>Руководитель видит лишь общую картину за день - количество собранных заказов (макроуровень)</p>
+
+<h3 id="решение">Решение</h3>
+
+<p>После ряда интервью с руководителями Леруа Мерлен консультанты NL!A детализировали задачу, построили модель данных процесса работы по сборке интернет заказа и создали <a href="/blog/digital_assistant_intro/" target="_blank">Цифрового помощника NL!A</a>, нацеленного на сбор цифровых следов процесса сборки интернет-заказов в Леруа Мерлен Новосибирск</p>
+
+<h3 id="цель">Цель:</h3>
+
+<p>Повысить производительность труда сотрудников в секторе сбора интернет-заказов</p>
+
+<h3 id="замысел">Замысел:</h3>
+
+<p>Создать сервис (<a href="/blog/digital_assistant_intro/" target="_blank">Цифрового помощника NL!A</a>) по сбору (вводу) данных через сотовые телефоны сотрудников (цифровое рабочее место)</p>
+
+<h3 id="задачи">Задачи:</h3>
+
+<ul>
+<li><p>Создать цифровую модель процесса сбора интернет-заказа</p></li>
+
+<li><p>Спроектировать модель данных (базу данных) для хранения данных о действиях сотрудников в контексте процесса сбора интернет-заказов</p></li>
+
+<li><p>Предоставить сотрудникам интерфейсы по вводу данных этапа процесса сборки заказов (взял; на паузе; собрал) через <a href="/blog/digital_assistant_intro/" target="_blank">Цифрового помощника NL!A</a></p></li>
+
+<li><p>Создать механизм проверки корректности ввода данных сотрудников (риск “прокликать действия за секунду”)</p></li>
+
+<li><p>Создать функционал импорта данных о заказах для сборки из базы данных Леруа Мерлен</p></li>
+
+<li><p>Создать <a href="/blog/digital_assistant_intro/" target="_blank">дэшборд</a> для руководителя сектора с визуализацией данных о действиях сотрудников в режиме реального времени</p></li>
+</ul>
+
+<h3 id="итог">Итог:</h3>
+
+<p>Созданный Neuro Lab! Algorithms <a href="/blog/digital_assistant_intro/" target="_blank">Цифровой помощник NL!A</a> для Леруа Мерлен Новосибирск обладает следующим обобщенным функционалом для сотрудников зала:</p>
+
+<h4 id="авторизация-сотрудника">Авторизация сотрудника</h4>
 
 <p>
 
 
 <figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/title.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/2.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/3.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/4.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/5.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/6.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/7.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/8.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/10.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/11.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/12.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/13.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
-    
-</figure>
-
-
-
-
-
-
-<figure class='article-image'>
-    <img src="/blog/tehnoprom_2019/images/14.jpg" class="img-fluid" alt='NL!A Технопром-2019. Цифровой помощник NL!A'/>
+    <img src="/blog/leroy_merlin_digital_assistant/images/2.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
     
 </figure>
 
 
 
 <hr></p>
+
+<h4 id="возможность-взять-заказ-в-сборку-по-id-заказа">Возможность “взять заказ” в сборку по id заказа</h4>
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/2.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+<p>
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/3.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+<hr></p>
+
+<h4 id="приостановить-сборку-заказа-поставить-на-паузу">Приостановить сборку заказа (“поставить на паузу)</h4>
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/6.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/7.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+<hr>
+
+<h4 id="финализировать-сборку-заказа-введя-пин-код-с-экрана-у-стойки-руководителя-сектора">Финализировать сборку заказа (введя пин-код с экрана у стойки руководителя сектора)</h4>
+
+<p>
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/6.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/8.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/9.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+<hr></p>
+
+<h3 id="ценность-использования-a-href-blog-digital-assistant-intro-target-blank-цифрового-помощника-nl-a-a-для-управления-процессом-сборки-интернет-заказов-в-леруа-мерлен-новосибирск">Ценность использования <a href="/blog/digital_assistant_intro/" target="_blank">Цифрового помощника NL!A</a> для управления процессом сборки интернет заказов в Леруа Мерлен Новосибирск:</h3>
+
+<ol>
+<li><p>Сотрудники получили удобный и интуитивно понятный интерфейс для получения и ввода данных о действиях</p></li>
+
+<li><p>Руководитель сектора получил доступ к данным о действиях каждого сотрудника в течение рабочего дня (пролечена “управленческая слепота” на микроуровне)</p></li>
+
+<li><p>Руководитель сектора на основании объективных данных об активности деятельности сотрудников (data-driven-management) приступил к выстраиванию новой системы мотивации (рейтинги сотрудников; бонус самому активному сотруднику дня)</p></li>
+</ol>
+
+<p><br><br></p>
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/1.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/2.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/3.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/4.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/5.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/6.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/7.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/8.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+
+
+
+<figure class='article-image'>
+    <img src="/blog/leroy_merlin_digital_assistant/images/9.PNG" class="img-fluid" alt='Цифровой помощник NL!A'/>
+    
+</figure>
+
+
+
+
+<h3 id="нужен-цифровой-помощник-nl-a-для-вашей-компании">Нужен Цифровой помощник NL!A для вашей компании?</h3>
+
+<h3 id="свяжитесь-с-нами">Свяжитесь с нами:</h3>
+
+<ul>
+<li>boss@nl-a.ru</li>
+<li>+7-913-929-00-88</li>
+</ul>
 
 
                 <div class="divider divider-dotted"></div>
