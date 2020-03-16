@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Drive on NL!A</title>
+    <link>http://nl-a.ru/blogtags/data-drive/</link>
+    <description>Recent content in Data Drive on NL!A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2020 21:54:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://nl-a.ru/blogtags/data-drive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data-drive: вдохновляющее видео о роли данных (data) в современном мире</title>
+      <link>http://nl-a.ru/blog/data_drive_fuel_video/</link>
+      <pubDate>Fri, 03 Jan 2020 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/data_drive_fuel_video/</guid>
+      <description>Лаконично, эмоционально и весьма по сути о роли данных в современном мире Один из эталонных примеров работы маркетологов, раскрывающих суть весьма сложного и комплексного явления
+ 
+Мы смотрим на данные по-разному &amp;hellip;
+&amp;hellip; любим &amp;hellip;
+&amp;hellip; или ненавидим
+Данные - больше, чем просто код
+Данные помогают расти
+Данные помогают улучшать
+Данные по сути - топливо
+Данные могут быть эпическими
+Данные могут быть дерзкики</description>
+    </item>
+    
+  </channel>
+</rss>
