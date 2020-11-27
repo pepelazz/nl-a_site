@@ -6,10 +6,20 @@
     <description>Recent content in Data Drive on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2020 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 21:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://nl-a.ru/blogtags/data-drive/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Цифровая трансформация управления: базовая методология</title>
+      <link>http://nl-a.ru/blog/digital_transofmation_methodology/</link>
+      <pubDate>Thu, 26 Nov 2020 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/digital_transofmation_methodology/</guid>
+      <description>Материал для тех, кому интересна тема автоматизации (цифровизации) систем управления Занимаясь автоматизацией систем управления (более хайпово - цифровой трансформацией) организаций, выкристализовываем методологическое ядро (упрощенно: название - модель - система)
+Проблема / аксиома: ни один управленец не обладает исчерпывающим объемом информации (об объекте управления) в момент принятия управленческих решений - ценной информации всегда может быть больше Решение: современные технологии позволяют создавать системы сбора недостающих данных / управленческой информации (быстро и дешево) и предоставлять ее неограниченному количеству сотрудников в режиме реального времени</description>
+    </item>
     
     <item>
       <title>Data-drive: вдохновляющее видео о роли данных (data) в современном мире</title>
