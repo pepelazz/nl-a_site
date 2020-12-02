@@ -6,10 +6,20 @@
     <description>Recent content in Методология on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 21:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://nl-a.ru/blogtags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Основные принципы концепции Data-driven Management</title>
+      <link>http://nl-a.ru/blog/data_driven_management_principles/</link>
+      <pubDate>Tue, 01 Dec 2020 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/data_driven_management_principles/</guid>
+      <description>Из выпускной квалификационной работы магистра ЭФ НГУ А.Чередникова, 2020
+Процессы цифровизации экономики, начавшиеся в конце предыдущего века, кардинально изменили подходы к анализу разнообразных данных, с которыми приходится работать компаниям. Если раньше в процессе принятия управленческих решений менеджеры руководствовались преимущественно собственным опытом, мнением специалистов, чья квалификация и репутация не вызывает сомнений, а также опирались на анализ данных уже завершенного отчетного периода, то в связи с изменениями внешней среды и развитием цифровых технологий подобные методы работы претерпевают изменения, поскольку компании перестали успевать за запросами клиентов.</description>
+    </item>
     
     <item>
       <title>Цифровая трансформация управления: базовая методология</title>
