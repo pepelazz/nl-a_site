@@ -6,10 +6,27 @@
     <description>Recent content in Методология on NL!A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 03 Apr 2021 21:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://nl-a.ru/blogtags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Что такое API (видео)</title>
+      <link>http://nl-a.ru/blog/what_is_api/</link>
+      <pubDate>Sat, 03 Apr 2021 21:54:53 -0500</pubDate>
+      
+      <guid>http://nl-a.ru/blog/what_is_api/</guid>
+      <description>Возможность подключения - это потрясающая вещь
+Все мы привыкли к возможности моментального получения данных
+Такая возможность позволяет подключиться к миру напрямую
+Используя удобный гаджет - компьютер или телефон
+Мы можем покупать, писать, делать закладки, выбирать
+что угодно и где бы мы - ни были
+мы подключены к миру связаны друг с другому как никогда раньше
+Но как такое возможно?
+Как возможно передать данные из точки А в точку Б</description>
+    </item>
     
     <item>
       <title>Основные принципы концепции Data-driven Management</title>
